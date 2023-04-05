@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Suhaila&apos;s Blog",
-    "home_page_url": "",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://suhailashakiah.github.io/",
+    "feed_url": "https://suhailashakiah.github.io/feed.json",
     "description": null,
-    "icon": "http://localhost:4000/assets/images/icon-512.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "https://suhailashakiah.github.io/assets/images/icon-512.png",
+    "favicon": "https://suhailashakiah.github.io/favicon.ico",
     "expired": false,
     "items": [
     
@@ -13,11 +13,11 @@
         
         
         {
-            "id": "http://localhost:4000/2023/04/04/hello-world.html",
+            "id": "https://suhailashakiah.github.io/2023/04/04/hello-world.html",
             "title": "Hello World",
             "content_text": "Hello! Welcome to my blog.\n",
             "content_html": "<p>Hello! Welcome to my blog.</p>\n",
-            "url": "http://localhost:4000/2023/04/04/hello-world.html",
+            "url": "https://suhailashakiah.github.io/2023/04/04/hello-world.html",
             "date_published": "2023-04-04T00:00:00-07:00",
             "date_modified": "2023-04-04T00:00:00-07:00",
             "author": {
